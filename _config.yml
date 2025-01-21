@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Seminar on Infinity Categories
-email: diogomariafa@hotmail.com
+title: Higher Cobordism Theory
+email: diogomariafa@tecnico.ulisboa.pt
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Spring semester 2022/2023 - Higher categories and \(\infty\)-categories
-baseurl: "/Seminar-on-Higher-Categories" # the subpath of your site, e.g. /blog
+  January 2025 - On (\(\infty,n\))-categories of cobordisms
+baseurl: "/Seminar-on-higher-cobordisms-ANU" # the subpath of your site, e.g. /blog
 url: "https://diogofd.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
@@ -33,13 +33,13 @@ github_username:
 theme: minima
 
 minima:
-  skin: solarized-light
+  skin: dark
 
 kramdown:
   math_engine: katex
 
 plugins:
-  - jekyll-katex
+  #- jekyll-katex
 
 #vplugins:
 #  - jekyll-feed

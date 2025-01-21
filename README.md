@@ -1,6 +1,6 @@
-# Seminar-on-Higher-Categories
+# Seminar on $$(\infinity,n)$$-categories of cobordisms
 
-Backend for a website page supporting the graduate-level course "Seminar on Higher-Categories" taught by me and John Huerta on the Spring semester of 2022/2023 at Instituto Superior Técnico.
+Backend for a website page supporting the 4-part series "Seminar on higher cobordisms" taught by me in January of 2025 at ANU. 
 
 The site will be hosted using GitHub Pages + Jekyll.
 
